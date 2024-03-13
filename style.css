@@ -1,0 +1,16 @@
+#scrollButton {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.content {
+    height: 2000px;
+}
+
+.video-button-wrap {
+    width: 100px;
+    height: 100px;
+}
